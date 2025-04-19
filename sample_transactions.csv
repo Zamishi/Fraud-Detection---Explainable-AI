@@ -1,0 +1,6 @@
+TransactionID,Amount,Time,Location,DeviceType,Fraud
+1,120.5,12,New York,Mobile,0
+2,2500,23,London,Laptop,1
+3,79.99,5,Berlin,Tablet,0
+4,1300,19,New York,Laptop,1
+5,20.5,8,Mumbai,Mobile,0
