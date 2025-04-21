@@ -1,9 +1,9 @@
-# 🧠 Explainable AI Fraud Detection (Mini Project)
+# 🧠 Explainable AI Fraud Detection 
 ### A lightweight fraud detection system built using Random Forest and SHAP explainability. Perfect for demonstrating real-world financial anomaly detection using Machine Learning.
 
 ---
 
-##🌟 Key Features
+## 🌟 Key Features
 - Detects fraudulent transactions using Random Forest
 
 - Model interpretability with SHAP values
@@ -27,7 +27,7 @@
 
 ---
 
-##📂 How to Run
+## 📂 How to Run
 - Clone the repo or download as ZIP.
 
 - Open Fraud_Detection_Model.ipynb in Jupyter Notebook.
@@ -38,12 +38,15 @@
 ---
 
 
-📊 Sample Output
+## 📊 Sample Output
 Prediction result on transactions
 
 SHAP visual plot showing feature impact
 
-##⚠️ Project Scope
+
+---
+
+## ⚠️ Project Scope
 
 ###This is a freelance-ready, mini project for quick demonstrations or use in capstone/portfolio showcases.
 
